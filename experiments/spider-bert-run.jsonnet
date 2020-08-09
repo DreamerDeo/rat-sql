@@ -5,7 +5,7 @@
         data_path: 'data/spider/',
         bs: 6,
         num_batch_accumulated: 4,
-        bert_version: "bert-large-uncased-whole-word-masking",
+        bert_version: "bert/cased_L-12_H-768_A-12",
         summarize_header: "avg",
         use_column_type: false,
         max_steps: 81000,
